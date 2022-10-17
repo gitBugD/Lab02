@@ -1,0 +1,3 @@
+C:/Users/diana.laurenti/CLionProjects/Lab02/cmake-build-debug/CMakeFiles/Lab02.dir
+C:/Users/diana.laurenti/CLionProjects/Lab02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diana.laurenti/CLionProjects/Lab02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
